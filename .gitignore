@@ -2,6 +2,7 @@
 app/build
 .idea
 gradle
+.gradle
 gradlew
 atlassian-ide-plugin.xml
 gradlew.bat
