@@ -1,5 +1,5 @@
 # CustomRangeSlider
-![alt text](http://monosnap.com/file/ijKifQAA5S2wSstKAGdBsHQLcRbySm)
+![alt text](https://api.monosnap.com/rpc/file/download?id=ijKifQAA5S2wSstKAGdBsHQLcRbySm)
 
 License
 -----
