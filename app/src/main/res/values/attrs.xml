@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RangeSeekBar">
+        <attr name="height_progress" format="dimension"/>
+        <attr name="thumb_size" format="dimension"/>
+        <attr name="thumb_inner_size" format="dimension"/>
+        <attr name="scale_height" format="dimension"/>
+        <attr name="point_size" format="dimension"/>
+        <attr name="label_point_height" format="dimension"/>
+        <attr name="label_text_size" format="dimension"/>
+        
+    </declare-styleable>
+</resources>

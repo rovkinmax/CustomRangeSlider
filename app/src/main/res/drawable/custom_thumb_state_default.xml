@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:antialias="true" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--shadow-->
+    <item>
+        <shape android:dither="true"
+               android:antialias="true"
+               android:shape="oval">
+            <size
+                    android:width="20dp"
+                    android:height="20dp"/>
+            <solid android:color="#000"/>
+            <corners android:radius="12dp"/>
+        </shape>
+    </item>
+    <!--slider-->
+    <item android:bottom="2px">
+        <shape
+                android:dither="true"
+                android:antialias="true"
+                android:shape="oval"
+                >
+            <size
+                    android:width="32dp"
+                    android:height="32dp"/>
+
+            <stroke android:width="1px" android:color="#33838483" />
+            <solid android:color="#fff"/>
+        </shape>
+    </item>
+
+</layer-list>

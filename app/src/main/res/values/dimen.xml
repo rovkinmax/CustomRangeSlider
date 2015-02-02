@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightProgress">6dp</dimen>
+    <dimen name="size_thumb">14dp</dimen>
+    <dimen name="thumbInnerSize">7dp</dimen>
+    <dimen name="scaleHeight">12dp</dimen>
+    <dimen name="pointSize">4dp</dimen>
+    <dimen name="labelPointH">14dp</dimen>
+    <dimen name="labelTextSize">17sp</dimen>
+</resources>
